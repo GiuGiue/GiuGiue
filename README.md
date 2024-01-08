@@ -14,4 +14,4 @@ Um pouco sobre mim:
   <a href="https://github.com/GiuGiue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuGiu&show_icons=true&theme=ambient_gradient"/>
 </div>
-![snake animation](https://github.com/GiuGiu/GiuGiu/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/GiuGiue/GiuGiue/blob/output/github-contribution-grid-snake2.svg)
