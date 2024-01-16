@@ -1,4 +1,4 @@
-### Olá!!! Meu nome é Giulia, mas pode me chamar de Giu ✨👋
+### Olá!!! Meu nome é Giulia, mas pode me chamar de ✨Giu✨👋
 
 Um pouco sobre mim:
 
