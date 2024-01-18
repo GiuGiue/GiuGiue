@@ -13,5 +13,4 @@ Um pouco sobre mim:
 <div>
   <a href="https://github.com/GiuGiue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuGiue&show_icons=true&theme=ambient_gradient"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuGiue&theme=ambient_gradient&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br&layout=compact">
 </div>
