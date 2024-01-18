@@ -1,5 +1,5 @@
-### Olá!!! Meu nome é Giulia, mas pode me chamar de ✨Giu✨👋
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D79FA&height=120&section=header"/>
+  <h3 align="center">Olá!!! Meu nome é Giulia, mas pode me chamar de ✨Giu✨👋</h3>
 Um pouco sobre mim:
 
 - 🔎 Atualmente estou procurando estágio
